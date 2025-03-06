@@ -311,6 +311,10 @@ and more.
   services platform connecting the people, businesses, and data of today with
   the Web3 world of tomorrow.
 
+- **[Chainstack](https://chainstack.com/build-better-with-base/)**: Providing mainnet and testnet nodes in archive mode, with debug & trace APIs — all nodes are of different types to suite your needs: [Global](https://docs.chainstack.com/docs/global-elastic-node), [Unlimited](https://docs.chainstack.com/docs/unlimited-node), [Trader](https://docs.chainstack.com/docs/trader-node), [Dedicated](https://docs.chainstack.com/docs/dedicated-node). Easy sign-up with a GitHub account & a free Deveoper plan.
+
+- **[Chainstack Compare](https://compare.chainstack.com/dashboard)** — A node RPC performance comparison dashboard across time for Base nodes from key providers. 
+
 - **[Cielo](https://app.cielo.finance)**: The most powerful onchain wallet
   tracking platform. Retail, degens, investors, and onchain researchers all use
   Cielo to better understand the blockchain. Track up to 250 wallets for free.
